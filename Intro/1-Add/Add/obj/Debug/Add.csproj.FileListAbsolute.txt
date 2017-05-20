@@ -1,5 +1,0 @@
-c:\users\kuhgelfische\documents\visual studio 2017\Projects\Add\Add\bin\Debug\Add.exe.config
-c:\users\kuhgelfische\documents\visual studio 2017\Projects\Add\Add\bin\Debug\Add.exe
-c:\users\kuhgelfische\documents\visual studio 2017\Projects\Add\Add\bin\Debug\Add.pdb
-c:\users\kuhgelfische\documents\visual studio 2017\Projects\Add\Add\obj\Debug\Add.exe
-c:\users\kuhgelfische\documents\visual studio 2017\Projects\Add\Add\obj\Debug\Add.pdb
