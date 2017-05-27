@@ -14,28 +14,8 @@ namespace _5_MatrixElementsSum
             int[][] newMatrix = new int[][] { new int[]  { 0, 1, 1, 2},
                                               new int[]  { 0, 5, 0, 0},
                                               new int[]  { 2, 0, 3, 3 } };
-            //newMatrix[0, 0] = 0;
-            //newMatrix[0, 1] = 1;
-            //newMatrix[0, 2] = 1;
-            //newMatrix[0, 3] = 2;
-
-            //newMatrix[1, 0] = 0;
-            //newMatrix[1, 1] = 5;
-            //newMatrix[1, 2] = 0;
-            //newMatrix[1, 3] = 0;
-
-            //newMatrix[2, 0] = 2;
-            //newMatrix[2, 1] = 0;
-            //newMatrix[2, 2] = 3;
-            //newMatrix[2, 3] = 3;
-
-            /*
-             [[0,1,1,2], 
-             [0,5,0,0], 
-             [2,0,3,3]]         
-             */
             Console.WriteLine(newMatrix[0][3]);
-            //Console.WriteLine(MatrixElementsSum(newMatrix));
+
         }
         public static int MatrixElementsSum(int[][] matrix)
         {
@@ -47,7 +27,7 @@ namespace _5_MatrixElementsSum
                 {
                     if (hauntedFloors.Contains(j))
                     {
-                        break;
+                        //Do nothing
                     }
                     else {
                         if (matrix[i][j] == 0)
